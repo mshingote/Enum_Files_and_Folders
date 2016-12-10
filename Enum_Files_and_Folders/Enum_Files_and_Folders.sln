@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Enum_Files_and_Folders", "Enum_Files_and_Folders\Enum_Files_and_Folders.vcproj", "{53F98BFE-A87E-4B60-8A98-9022656B335B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53F98BFE-A87E-4B60-8A98-9022656B335B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{53F98BFE-A87E-4B60-8A98-9022656B335B}.Debug|Win32.Build.0 = Debug|Win32
+		{53F98BFE-A87E-4B60-8A98-9022656B335B}.Release|Win32.ActiveCfg = Release|Win32
+		{53F98BFE-A87E-4B60-8A98-9022656B335B}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
