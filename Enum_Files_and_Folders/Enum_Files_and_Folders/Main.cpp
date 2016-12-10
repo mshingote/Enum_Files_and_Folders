@@ -1,7 +1,7 @@
 /*________________________________________
 Programmer: Mayur Shingote
 Date: 11/12/2016
-Noe:- Anyone can use this code.
+Note:- Anyone can use this code.
 If there is any bug please let me know. :)
 Email:-mayur.shingote@yahoo.com
 ___________________________________*/
